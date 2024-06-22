@@ -1,0 +1,8 @@
+.displayInfoContainer{
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.76);
+    color: #FFFFFF;
+    width: 130px;
+    height: 25px;
+    margin-top: 10px;
+}
